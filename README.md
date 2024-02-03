@@ -10,13 +10,13 @@ Demo：[https://nianbroken.github.io/Personal_Sakura_Guide_Page/](https://nianbr
 
 <img src="https://blog.nianbroken.top/NianBrokenStorage/FileStorage/7/03.png" style="zoom:60%;" />
 
----
 
 ## 动态图：
 
 ![个人樱花引导页动态图](https://blog.nianbroken.top/NianBrokenStorage/FileStorage/7/04.gif "个人樱花引导页动态图")由于 Gif 较大，可能加载不出来或加载比较慢，建议直接前往演示站查看。
 
 ## 配置修改
+
 收款码：`money_receiving_QR_code` → `index.html`
 
 ## 许可证
@@ -26,6 +26,7 @@ Demo：[https://nianbroken.github.io/Personal_Sakura_Guide_Page/](https://nianbr
 ## 特别感谢
 
 [https://html5up.net/dimension](dimension "https://html5up.net/dimension")
+
 [fwxiaohan.github.io](fwxiaohan.github.io "fwxiaohan.github.io")
 
 ## 最便宜的 VPN
