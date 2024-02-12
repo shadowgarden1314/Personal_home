@@ -2,7 +2,7 @@
 
 ## 预览
 
-Demo：[https://nianbroken.github.io/Personal_Sakura_Guide_Page/](https://nianbroken.github.io/Personal_Sakura_Guide_Page/ "https://nianbroken.github.io/Personal_Sakura_Guide_Page/")
+Demo：[https://nianbroken.github.io/Personal_Sakura_Guide_Page/](https://nianbroken.github.io/Personal_Sakura_Guide_Page/)
 
 ---
 
