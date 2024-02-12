@@ -2,7 +2,7 @@
 
 ## 预览
 
-Demo：[https://nianbroken.github.io/Personal_Sakura_Guide_Page/](https://nianbroken.github.io/Personal_Sakura_Guide_Page/)
+- [https://nianbroken.github.io/Personal_Sakura_Guide_Page/](https://nianbroken.github.io/Personal_Sakura_Guide_Page/)
 
 ---
 
@@ -37,7 +37,7 @@ Demo：[https://nianbroken.github.io/Personal_Sakura_Guide_Page/](https://nianbr
 
 ## 违规仓库
 
-- [sunlicp/SlcpBlog](https://github.com/sunlicp/SlcpBlog "sunlicp/SlcpBlog") - 违反Apache-2.0开源协议许可证，直接将原始作者的名字改为你自己的名字，同时删除了所有原始版权信息。
+- [sunlicp/SlcpBlog](https://github.com/sunlicp/SlcpBlog "sunlicp/SlcpBlog") - 违反Apache-2.0开源协议许可证，直接将原始作者的名字改为自己的名字，同时删除了所有原始版权信息。
 
 ## 其他
 
